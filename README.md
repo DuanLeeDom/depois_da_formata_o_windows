@@ -24,7 +24,7 @@ Se o computador já está formatado, siga as etapas abaixo para deixar otimizado
 
 ## ETAPA 2: Antes de baixar qualquer coisa
 
-Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`, extraia seu conteúdo e execute o programa conforme o habitual. É provável que o antivírus seja acionado, alegando que o programa é prejudicial, porém, isso não é verdadeiro, e você pode prosseguir com a execução sem preocupações.
+Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`(caso tenha uma versão mais atualizada faça o mesmo processo), extraia seu conteúdo e execute o programa conforme o habitual. É provável que o antivírus seja acionado, alegando que o programa é prejudicial, porém, isso não é verdadeiro, e você pode prosseguir com a execução sem preocupações.
 
 1. Instale todos os Visual C++: [Visual C++ 2022 Redistributable](https://github.com/abbodi1406/vcredist/releases)
 
