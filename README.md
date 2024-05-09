@@ -81,6 +81,8 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`(caso
 
 13. [GIMP](https://www.gimp.org/) - Editor de Imagens
 
+14.[XferRecords](https://xferrecords.com/) - Plugin Músicas
+
 ## JOGOS
 
 1. [Steam](https://store.steampowered.com/about/) - Plataforma de Distribuição Digital
