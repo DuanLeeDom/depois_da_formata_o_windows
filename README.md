@@ -54,6 +54,9 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`(caso
 
 # PROGRAMAS ESSENCIAIS
 
+## PROGRAMAS OBRIGATÓRIOS
+1. [TeraCopy](https://www.codesector.com/teracopy) - Para mover arquivos
+
 ## PROGRAMAS
 1. [AnyDesk](https://anydesk.com/pt) - Acesso Remoto
 
@@ -81,7 +84,7 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`(caso
 
 13. [GIMP](https://www.gimp.org/) - Editor de Imagens
 
-14.[XferRecords](https://xferrecords.com/) - Plugin Músicas
+14. [XferRecords](https://xferrecords.com/) - Plugin Músicas
 
 ## JOGOS
 
