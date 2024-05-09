@@ -163,3 +163,4 @@ Executar o PowerShell como Administrador:
 
 1. [ESET Online Scanner gratuito](https://www.eset.com/)
 2. [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
+3. [Malwarebytes](https://br.malwarebytes.com)
