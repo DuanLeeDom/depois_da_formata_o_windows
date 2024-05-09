@@ -55,7 +55,9 @@ Faça o download do recurso denominado `VisualCppRedist_AIO_x86_x64_82.zip`(caso
 # PROGRAMAS ESSENCIAIS
 
 ## PROGRAMAS OBRIGATÓRIOS
-1. [TeraCopy](https://www.codesector.com/teracopy) - Para mover arquivos
+1. [TeraCopy](https://www.codesector.com/teracopy) - Para arquivos
+2. [7-zip](https://www.7-zip.org/) - Para arquivos
+3. [WinRAR](https://www.win-rar.com/) - Para arquivos
 
 ## PROGRAMAS
 1. [AnyDesk](https://anydesk.com/pt) - Acesso Remoto
