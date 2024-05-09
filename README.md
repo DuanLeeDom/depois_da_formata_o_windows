@@ -158,3 +158,8 @@ Executar o PowerShell como Administrador:
    DISM /Online /Cleanup-image /Restorehealth
    ```
    - Esse comando é utilizado no Windows para verificar e corrigir a corrupção de arquivos de sistema. O DISM (Deployment Image Servicing and Management) é uma ferramenta de linha de comando que verifica a integridade da imagem do sistema operacional e tenta restaurá-la para um estado saudável. O parâmetro `/Cleanup-image /Restorehealth` especifica que o DISM deve tentar corrigir a imagem de sistema atualmente em uso.
+  
+# ANTIVIROS
+
+1. [ESET Online Scanner gratuito](https://www.eset.com/)
+2. [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
