@@ -21,6 +21,11 @@ Se o computador já está formatado, siga as etapas abaixo para deixar otimizado
    - Após o download, volte às opções normais da tela Ohook Activation.
    - [1] Install Ohook Office Activation
    - Após a instalação, pressione Enter ou qualquer tecla.
+   
+4.2. Abra o PowerShell em modo de `administrador` e execute o seguinte código:
+   ```bash
+   irm christitus.com/win | iex
+   ```
 
 ## ETAPA 2: Antes de baixar qualquer coisa
 
