@@ -26,6 +26,7 @@ Se o computador já está formatado, siga as etapas abaixo para deixar otimizado
    ```bash
    irm christitus.com/win | iex
    ```
+caso não saiba o que é só dá uma olhada no site deles: [One Tool for Everything](https://christitus.com/one-tool-for-everything/)
 
 ## ETAPA 2: Antes de baixar qualquer coisa
 
