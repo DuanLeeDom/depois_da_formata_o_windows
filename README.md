@@ -24,7 +24,7 @@ Se o computador já está formatado, siga as etapas abaixo para deixar otimizado
    
 4.2. Abra o PowerShell em modo de `administrador` e execute o seguinte código:
    ```bash
-   irm christitus.com/win | iex
+   irm https://christitus.com/win | iex
    ```
 caso não saiba o que é só dá uma olhada no site deles: [One Tool for Everything](https://christitus.com/one-tool-for-everything/)
 
