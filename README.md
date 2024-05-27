@@ -3,10 +3,10 @@
 Se o computador já está formatado, siga as etapas abaixo para deixar otimizado o Windows:
 
 ## ETAPA 1: Ativação Windows e Office
-# 1º jeito é seguro segue as instruções!
+### 1º jeito é seguro segue as instruções!
 [Activate Windows 8, 8.1, 10 and 11 Pro for Free](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63)
 
-# 2º É um script de ativação altomatica, criado por um brasileiro. 
+### 2º É um script de ativação altomatica, criado por um brasileiro. 
 
 CREDITOS: Marcos Franco | do canal [Engenharia0800](https://www.youtube.com/@engenharia0800)
 
